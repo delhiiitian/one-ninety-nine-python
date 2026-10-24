@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "textkit-199"
+version = "1.0.0"
+description = "A small text analysis toolkit from the book Python in 199 Pages"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[project.scripts]
+textkit = "textkit.__main__:main"
+
+[tool.setuptools]
+packages = ["textkit"]

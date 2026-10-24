@@ -1,0 +1,8 @@
+Python was created by Guido van Rossum and first released in 1991. Its design
+philosophy puts code readability first. Python uses indentation to mark blocks
+of code, which makes programs look clean and tidy.
+
+Today Python runs websites, analyses data, controls robots and trains machine
+learning models. Many beginners pick Python as their first language because
+the code reads almost like English. Python has a huge standard library, and
+the Python Package Index offers hundreds of thousands of extra packages.

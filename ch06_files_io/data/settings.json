@@ -1,0 +1,7 @@
+{
+  "app_name": "Corner Cafe",
+  "currency": "INR",
+  "tax_percent": 5,
+  "open_hours": {"start": "08:00", "end": "22:00"},
+  "payment_methods": ["cash", "card", "upi"]
+}

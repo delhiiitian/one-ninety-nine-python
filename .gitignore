@@ -1,0 +1,6 @@
+output/
+__pycache__/
+*.pyc
+.venv/
+*.db
+atm.log
